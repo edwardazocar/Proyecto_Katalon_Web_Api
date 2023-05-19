@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Api_Borrar_Usuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbaa80fe-3e3b-48ac-a486-54d3fc07f2b5</testCaseGuid>
+</TestCaseEntity>

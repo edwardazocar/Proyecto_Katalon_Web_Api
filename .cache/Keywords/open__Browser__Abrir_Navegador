@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F73E884895E1520D644CBFEAA35AE27D",
+  "keywordClasses": [
+    {
+      "name": "open.Browser.Abrir_Navegador",
+      "keywordMethods": [
+        {
+          "name": "OpenNavegador",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

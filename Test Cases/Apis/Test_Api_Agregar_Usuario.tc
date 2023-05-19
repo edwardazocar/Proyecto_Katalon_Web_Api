@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Api_Agregar_Usuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd7c328f-a31d-4237-9e6d-e7ba1511c699</testCaseGuid>
+</TestCaseEntity>
